@@ -9,3 +9,4 @@ Cuda experiments.
 - [AdepojuJeremy/CUDA-120-DAYS--CHALLENGE](https://github.com/AdepojuJeremy/CUDA-120-DAYS--CHALLENGE)
 - [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream)
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
+- [GPU Mode Videos](https://www.youtube.com/@GPUMODE/videos)
