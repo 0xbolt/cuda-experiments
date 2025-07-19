@@ -8,4 +8,4 @@ Cuda experiments.
 - [hkproj/100-days-of-gpu](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
 - [AdepojuJeremy/CUDA-120-DAYS--CHALLENGE](https://github.com/AdepojuJeremy/CUDA-120-DAYS--CHALLENGE)
 - [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream)
-- [NVIDIA/cuda-sample](https://github.com/NVIDIA/cuda-samples)
+- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
